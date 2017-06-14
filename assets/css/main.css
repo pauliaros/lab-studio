@@ -1,0 +1,141 @@
+.navbar-default{
+  background: #2E2D29 !important;
+  border: none;
+  background-color: transparent;
+  padding:10px;
+ }
+
+ .primer-section{
+ background-image: url(../img/header-bg.jpg);
+ height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+
+
+ }
+
+#inicio,
+#portfolio{
+	padding: 5% 3%;
+}
+
+.btn-default{
+	padding:15px;
+	color: white;
+	border: none;
+	background-color: #F2E420;
+	position: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.welcome-title{
+	font-family: 'Courgette', cursive;
+	color: white;
+	font-size: 60px;
+
+}
+
+.welcome-sub{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-size:80px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+.navbar-brand{
+	font-family: 'Kaushan Script', cursive;
+	color: #F2E420 !important;
+	font-size: 30px;
+}
+
+.navbar-nav li a{
+	color:white !important;
+}
+
+.navbar-nav li a:hover{
+	color:#F2E420 !important;
+}
+
+.icon{
+	font-size: 50px;
+	color:white;
+	padding-bottom: 15px;
+	background-color: #F2E420;
+	border-radius: 50%;
+	padding: 15px;
+
+}
+
+.iconlock{
+	font-size: 50px;
+	text-align: center;
+	color:white;
+	padding-bottom: 15px;
+	background-color: #F2E420;
+	border-radius: 100%;
+	padding: 15px;
+	width: 80px;
+	
+}
+
+.service-title,
+.port-title{
+	font-family: 'Roboto', sans-serif;
+	color: #2E2D29;
+	font-size: 50px;
+	font-weight: bold;
+	padding-top: 100px;
+}
+
+.sub-services,
+.sub-port{
+	font-family: 'Courgette', cursive;
+	font-size: 20px;
+	color: #2E2D29;
+	padding-bottom: 70px;
+}
+
+.row-services{
+	text-align: center;
+}
+
+.titulo-services
+{
+	font-family: 'Roboto', sans-serif;
+	color: #2E2D29;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.segundo-section{
+	padding: 5% 3%;
+}
+
+.parrafo{
+	padding-bottom: 100px;
+}
+
+.port{
+  max-width: 360px;
+  width: 1000px;
+  
+}
+
+.title-imgport{
+	font-family: 'Roboto', sans-serif;
+	color: #2E2D29;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+.sub-imgport{
+	font-family: 'Courgette', cursive;
+	font-size: 16px;
+	color: #2E2D29;
+	text-align: center;
+}
