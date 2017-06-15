@@ -83,7 +83,8 @@
 
 .service-title,
 .port-title,
-.about-title{
+.about-title,
+.team-title{
 	font-family: 'Montserrat', sans-serif;
 	color: #2E2D29;
 	font-size: 50px;
@@ -93,7 +94,8 @@
 
 .sub-services,
 .sub-port,
-.sub-about{
+.sub-about,
+.sub-team{
 	font-family: 'Spectral', serif;
 	font-size: 20px;
 	color: #2E2D29;
@@ -113,7 +115,8 @@
 }
 
 .segundo-section,
-.tercer-section
+.tercer-section,
+.quinto-section
 {
 	padding: 5% 3%;
 }
@@ -167,6 +170,7 @@
      color: white;
      padding: 25px;
      border: 5px solid #CCCCCC;
+
 }
 
 h4{
@@ -180,3 +184,34 @@ h4{
 	font-family: 'EB Garamond', serif;
 	font-size: 16px;
 }
+
+.img-circle.team{
+	width: 150px;
+	border: 5px solid #fff;
+}
+
+.quinto-section{
+	background-color: #cccccc;
+}
+
+.iconredes{
+	font-size: 20px;
+	color:white;
+	padding-bottom: 15px;
+	background-color: #000;
+	border-radius: 50%;
+	padding: 10px;
+}
+
+.iconred{
+	font-size: 20px;
+	text-align: center;
+	color:white;
+	padding-bottom: 15px;
+	background-color: #000;
+	border-radius: 100%;
+	padding: 10px;
+	width: 42px;
+	margin-bottom: 80px;
+}
+
