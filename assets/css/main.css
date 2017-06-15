@@ -31,14 +31,14 @@
 }
 
 .welcome-title{
-	font-family: 'Courgette', cursive;
+	font-family: 'Spectral', serif;
 	color: white;
 	font-size: 60px;
 
 }
 
 .welcome-sub{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: white;
 	font-size:80px;
 	font-weight: bold;
@@ -84,7 +84,7 @@
 .service-title,
 .port-title,
 .about-title{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #2E2D29;
 	font-size: 50px;
 	font-weight: bold;
@@ -94,7 +94,7 @@
 .sub-services,
 .sub-port,
 .sub-about{
-	font-family: 'Courgette', cursive;
+	font-family: 'Spectral', serif;
 	font-size: 20px;
 	color: #2E2D29;
 	padding-bottom: 70px;
@@ -106,7 +106,7 @@
 
 .titulo-services
 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #2E2D29;
 	font-size: 20px;
 	font-weight: bold;
@@ -129,7 +129,7 @@
 }
 
 .title-imgport{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #2E2D29;
 	font-size: 18px;
 	font-weight: bold;
@@ -138,7 +138,7 @@
 }
 
 .sub-imgport{
-	font-family: 'Courgette', cursive;
+	font-family: 'Spectral', serif;
 	font-size: 16px;
 	color: #2E2D29;
 	text-align: center;
@@ -169,3 +169,14 @@
      border: 5px solid #CCCCCC;
 }
 
+h4{
+	font-family: 'Montserrat', sans-serif;
+	color: #2E2D29;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.about-text{
+	font-family: 'EB Garamond', serif;
+	font-size: 16px;
+}
